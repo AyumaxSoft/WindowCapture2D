@@ -10,12 +10,16 @@ It supports capturing background windows, and the captured images can be attache
 ![ed99cc1218473bb4accc3c5d217454c4](https://user-images.githubusercontent.com/8191970/59857826-b31e1400-93b4-11e9-80df-13e39a0e1ec6.gif)
 
 ## Supported UE Versions
+
+**Note**: This plugin is updated and maintained only for the latest 3 versions of Unreal Engine.
+
 | UE Version | Support Status | Branch Name |
-|------------|---------------|-------------|
-| UE 5.5     | ✅ Supported  | UE5.5       |
-| UE 5.4     | ✅ Supported  | UE5.4       |
-| UE 5.3     | ✅ Supported  | UE5.3       |
-| Others     | 🔄 Check docs | master      |
+|------------|---------------|------------|
+| UE 5.6     | ✅ Supported  | UE5.6      |
+| UE 5.5     | ✅ Supported  | UE5.5      |
+| UE 5.4     | ✅ Supported  | UE5.4      |
+| UE 5.3     | ❌ End of Support (v1.6.1+) | UE5.3      |
+| Others     | 🔄 Check docs | master     |
 
 With support for UE5.x, the capture method has changed compared to the previous WindowCapture2D plugin.
 

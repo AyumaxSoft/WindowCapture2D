@@ -9,7 +9,7 @@ public class WindowCapture2DTests : ModuleRules
 		(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
-		ShadowVariableWarningLevel = WarningLevel.Warning;
+		CppCompileWarningSettings.ShadowVariableWarningLevel = WarningLevel.Warning;
 		CppStandard = CppStandardVersion.Cpp20;
 		bEnableExceptions = true;
 
