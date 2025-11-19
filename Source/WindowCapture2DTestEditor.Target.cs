@@ -10,7 +10,6 @@ public class WindowCapture2DTestEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.Latest;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
-		CppStandard = CppStandardVersion.Cpp20;
 
 		ExtraModuleNames.Add("WindowCapture2DTest");
 	}
