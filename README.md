@@ -1,5 +1,36 @@
 # WindowCapture2D
 
+## ⚠️ Important Notice: Repository Archived
+
+**This repository has been archived and is now read-only.**
+
+Current status:
+- This open-source version is no longer actively maintained
+- The repository remains publicly accessible in read-only mode
+- You can continue to fork, clone, and use the code under the MIT License terms
+
+### For Continued Support and Updates
+
+If you wish to continue receiving updates and support, the commercial version is available on the Unreal Engine Marketplace:
+
+[Fab](https://www.fab.com/listings/96541798-870b-40a5-b5ec-b3981e88272f)
+
+The commercial version includes:
+- Ongoing development and updates
+- Official support
+- Additional features
+
+### For Current Users
+
+If you plan to continue using this open-source version:
+- **Please fork or clone this repository for your own use**
+- All existing code remains available under the MIT License
+- You are free to maintain your own fork
+
+Thank you for your support and contributions to this project.
+
+--- 
+
 ## Overview
 WindowCapture2D is an Unreal Engine plugin that enables low-latency, high-performance window-based capture on Windows.
 
